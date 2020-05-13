@@ -1,1 +1,7 @@
-# repository-template
+# [SolutionName]
+
+
+
+----
+
+Made with :heart: by [CompanyName]
