@@ -140,3 +140,5 @@ dotnet_diagnostic.SA1600.severity = none
 dotnet_diagnostic.SA1601.severity = none
 # SA1602: Enumeration items should be documented
 dotnet_diagnostic.SA1602.severity = none
+dotnet_diagnostic.SA1309.severity = none
+dotnet_diagnostic.SA1200.severity = none
